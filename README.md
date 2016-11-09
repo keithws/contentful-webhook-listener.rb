@@ -14,6 +14,8 @@ teams and enabling cooperation between organizations.
 The aim of `contentful-webhook-listener` is to have developers setting up their Contentful
 Webhooks for triggering background jobs.
 
+If you are looking for a node.js module with similar functionality, check out [contentful-webhook-listener.js](https://github.com/keithws/contentful-webhook-listener.js).
+
 ## Installation
 
 Add this line to your application's Gemfile:
